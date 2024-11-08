@@ -1,0 +1,2175 @@
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+anger anger
+anger anger
+1 1.0 anger anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+anger anger
+anger anger
+2 1.0 anger anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+anger anger
+anger anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+anger anger
+anger anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+anger disgust
+anger disgust
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+anger anger
+anger anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+anger contempt
+anger contempt
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+anger anger
+anger anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+anger anger
+anger anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+anger neutral
+anger neutral
+10 0.7
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+anger anger
+anger anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+anger anger
+anger anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+anger anger
+anger anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+anger anger
+anger anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+anger anger
+anger anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+anger anger
+anger anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+anger the proposed solution for anger has a low probability of success and a low confidence level because the eyebrows are not tightly closed or arched at the outer edges, and there is no visible tightening of the jaw muscles or flushing on the cheeks and around the nose area. the mouth is also not tightly closed, which further supports that the emotion being expressed is not anger.
+
+b: [the proposed solution for contempt has a moderate probability of success and a moderate confidence level because the eyebrows are low, close together, and slightly arched at the outer edges. the mouth is tightly closed, showing only teeth and not the lips, which indicates a sense of disdain or scorn. the eyes are narrowed, and there might be a slight flushing on the cheeks and around the nose area.
+
+c: [the proposed solution for disgust has a low probability of success and a low confidence level because the eyebrows are not tightly closed or arched at the outer edges, and there is no visible gag reflex or tightening of the jaw muscles. the mouth is also tightly closed, which further supports that the emotion being expressed is not disgust.
+
+based on these evaluations, i would conclude that the most likely emotion expressed in the input image is contempt, with a moderate probability of success and a moderate confidence level.
+anger the proposed solution for anger has a low probability of success and a low confidence level because the eyebrows are not tightly closed or arched at the outer edges, and there is no visible tightening of the jaw muscles or flushing on the cheeks and around the nose area. the mouth is also not tightly closed, which further supports that the emotion being expressed is not anger.
+
+b: [the proposed solution for contempt has a moderate probability of success and a moderate confidence level because the eyebrows are low, close together, and slightly arched at the outer edges. the mouth is tightly closed, showing only teeth and not the lips, which indicates a sense of disdain or scorn. the eyes are narrowed, and there might be a slight flushing on the cheeks and around the nose area.
+
+c: [the proposed solution for disgust has a low probability of success and a low confidence level because the eyebrows are not tightly closed or arched at the outer edges, and there is no visible gag reflex or tightening of the jaw muscles. the mouth is also tightly closed, which further supports that the emotion being expressed is not disgust.
+
+based on these evaluations, i would conclude that the most likely emotion expressed in the input image is contempt, with a moderate probability of success and a moderate confidence level.
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+anger anger
+anger anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+anger anger
+anger anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+anger contempt
+anger contempt
+20 0.75
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+anger neutral
+anger neutral
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+anger fear
+anger fear
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+anger anger
+anger anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+anger anger
+anger anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+anger anger
+anger anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+anger anger
+anger anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+anger anger
+anger anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+anger anger
+anger anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+anger cannot rank emotions without more information.
+anger cannot rank emotions without more information.
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+anger neutral
+anger neutral
+30 0.7
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+anger anger
+anger anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+anger anger
+anger anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+anger surprise
+anger surprise
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+anger anger
+anger anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+anger anger
+anger anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+anger anger
+anger anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+anger anger
+anger anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+anger anger
+anger anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+anger anger
+anger anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+anger anger
+anger anger
+40 0.75
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+anger fear
+anger fear
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+anger fear
+anger fear
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+anger anger
+anger anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+anger anger
+anger anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+anger surprise
+anger surprise
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+contempt anger
+contempt anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+contempt anger
+contempt anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+contempt anger
+contempt anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+contempt anger
+contempt anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+contempt anger
+contempt anger
+50 0.64
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+contempt anger
+contempt anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+contempt sadness
+contempt sadness
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+contempt contempt
+contempt contempt
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+contempt anger
+contempt anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+contempt surprise
+contempt surprise
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+contempt anger
+contempt anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+contempt anger
+contempt anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+contempt anger
+contempt anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+contempt anger
+contempt anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+contempt anger
+contempt anger
+60 0.55
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+contempt anger
+contempt anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+contempt anger
+contempt anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+contempt anger
+contempt anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+disgust anger
+disgust anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+disgust anger
+disgust anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+disgust anger
+disgust anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+disgust anger
+disgust anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+disgust anger
+disgust anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+disgust anger
+disgust anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+disgust anger
+disgust anger
+70 0.4714285714285714
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+disgust anger
+disgust anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+disgust disgust
+disgust disgust
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+disgust anger
+disgust anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+disgust surprise
+disgust surprise
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+disgust sadness
+disgust sadness
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+disgust anger
+disgust anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+disgust anger
+disgust anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+disgust anger
+disgust anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+disgust contempt
+disgust contempt
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+disgust anger
+disgust anger
+80 0.425
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+disgust anger
+disgust anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+disgust anger
+disgust anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+disgust sadness
+disgust sadness
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+
+
+# from 84:
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+disgust anger
+disgust anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+disgust anger
+disgust anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+disgust anger
+disgust anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+disgust anger
+disgust anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+disgust anger
+disgust anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+disgust anger
+disgust anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+disgust anger
+disgust anger
+90 0.37777777777777777
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+disgust sadness
+disgust sadness
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+disgust fear
+disgust fear
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+disgust anger
+disgust anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+disgust surprise
+disgust surprise
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+disgust neutral
+disgust neutral
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+disgust anger
+disgust anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+disgust anger
+disgust anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+disgust anger
+disgust anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+disgust anger
+disgust anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+disgust surprise
+disgust surprise
+100 0.34
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+disgust sadness
+disgust sadness
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+disgust surprise
+disgust surprise
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+disgust anger
+disgust anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+disgust anger
+disgust anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+disgust anger
+disgust anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+disgust surprise
+disgust surprise
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+disgust anger
+disgust anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+disgust anger
+disgust anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+disgust anger
+disgust anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+disgust anger
+disgust anger
+110 0.3090909090909091
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+disgust anger
+disgust anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+disgust anger
+disgust anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+disgust anger
+disgust anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+disgust sadness
+disgust sadness
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+disgust anger
+disgust anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+disgust anger
+disgust anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+disgust anger
+disgust anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+disgust anger
+disgust anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+disgust anger
+disgust anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+disgust anger
+disgust anger
+120 0.2833333333333333
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+disgust surprise
+disgust surprise
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+fear anger
+fear anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+fear anger
+fear anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+fear disgust
+fear disgust
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+fear anger
+fear anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+fear neutral
+fear neutral
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+fear anger
+fear anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+fear anger
+fear anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+fear anger
+fear anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+fear anger
+fear anger
+130 0.26153846153846155
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+fear sadness
+fear sadness
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+fear anger
+fear anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+fear anger
+fear anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+fear contempt
+fear contempt
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+fear anger
+fear anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+fear happiness
+fear happiness
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+fear anger
+fear anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+fear neutral
+fear neutral
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+fear sadness
+fear sadness
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+fear disgust
+fear disgust
+140 0.24285714285714285
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+fear anger
+fear anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+fear anger
+fear anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+fear anger
+fear anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+fear anger
+fear anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+fear surprise
+fear surprise
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+fear anger
+fear anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness anger
+happiness anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness anger
+happiness anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness anger
+happiness anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness anger
+happiness anger
+150 0.22666666666666666
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness anger
+happiness anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness anger
+happiness anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness indifferent
+happiness indifferent
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness surprise
+happiness surprise
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness sadness
+happiness sadness
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness anger
+happiness anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness anger
+happiness anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness anger
+happiness anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness anger
+happiness anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness neutrality
+happiness neutrality
+160 0.2125
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness fear
+happiness fear
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness anger
+happiness anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness sadness
+happiness sadness
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness neutral
+happiness neutral
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness happiness
+happiness happiness
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness anger
+happiness anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness anger
+happiness anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness sadness
+happiness sadness
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness anger
+happiness anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness contempt
+happiness contempt
+170 0.20588235294117646
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness anger
+happiness anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness anger
+happiness anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness happiness
+happiness happiness
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness anger
+happiness anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness anger
+happiness anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness anger
+happiness anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness anger
+happiness anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness anger
+happiness anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness anger
+happiness anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness anger
+happiness anger
+180 0.2
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness anger
+happiness anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness anger
+happiness anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness anger
+happiness anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness anger
+happiness anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness anger
+happiness anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness anger
+happiness anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness anger
+happiness anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness anger
+happiness anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness anger.
+happiness anger.
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness anger
+happiness anger
+190 0.18947368421052632
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness contempt
+happiness contempt
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness sadness
+happiness sadness
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness contempt
+happiness contempt
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness anger
+happiness anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness none of the above emotions accurately describe the emotions displayed in the input image. the person's facial expression does not match any of the proposed emotions.
+happiness none of the above emotions accurately describe the emotions displayed in the input image. the person's facial expression does not match any of the proposed emotions.
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness anger
+happiness anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness anger
+happiness anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness anger
+happiness anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness anger
+happiness anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness anger
+happiness anger
+200 0.18
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness anger
+happiness anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness sadness
+happiness sadness
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness anger
+happiness anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness anger
+happiness anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness anger
+happiness anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness anger
+happiness anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness anger
+happiness anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness disgust
+happiness disgust
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness confused
+happiness confused
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness contempt
+happiness contempt
+210 0.17142857142857143
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness anger
+happiness anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness anger
+happiness anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness anger
+happiness anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness surprise
+happiness surprise
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+happiness anger
+happiness anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+sadness anger
+sadness anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+sadness anger
+sadness anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+sadness the eyebrows are furrowed and the eyes are narrowed or looking directly at the object of their anger, and the lips are tightly closed together, and the nose is slightly flared, but the mouth is not slightly open, and the eyebrows are slightly arched. the person is also leaning back slightly, and the head is tilted slightly to one side, and the shoulders are slightly hunched over. the arms are also relaxed and not tense. the legs are also relaxed and not tense. the feet are also relaxed and not tense. the hands are also relaxed and not tense. the fingers are also relaxed and not tense. the toes are also relaxed and not tense. the wrists are also relaxed and not tense. the ankles are also relaxed and not tense. the knees are also relaxed and not tense. the hips are also relaxed and not tense. the thighs are also relaxed and not tense. the calves are also relaxed and not tense. the shins are also relaxed and not tense. the calf muscles are also relaxed and not tense. the quadriceps are also relaxed and not tense. the hamstrings are also relaxed and not tense. the glutes are also relaxed and not tense. the lower back is also relaxed and not tense. the abdominal muscles are also relaxed and not tense. the obliques are also relaxed and not tense. the pectoral muscles are also relaxed and not tense. the shoulders are also relaxed and not tense. the spine is also relaxed and not tense. the neck is also relaxed and not tense. the head is also relaxed and not tense. therefore, the probability of success for this solution is low. confidence level: 10%.
+
+b: [
+the eyebrows are furrowed and the eyes are narrowed or looking directly at the object of their anger, and the lips are tightly closed together, and the nose is slightly flared, but the mouth is not slightly open, and the eyebrows are slightly arched. the person is also leaning back slightly, and the head is tilted slightly to one side, and the shoulders are slightly hunched over. the arms are also relaxed and not tense. the legs are also relaxed and not tense. the feet are also relaxed and not tense. the hands are also relaxed and不会发生。
+sadness the eyebrows are furrowed and the eyes are narrowed or looking directly at the object of their anger, and the lips are tightly closed together, and the nose is slightly flared, but the mouth is not slightly open, and the eyebrows are slightly arched. the person is also leaning back slightly, and the head is tilted slightly to one side, and the shoulders are slightly hunched over. the arms are also relaxed and not tense. the legs are also relaxed and not tense. the feet are also relaxed and not tense. the hands are also relaxed and not tense. the fingers are also relaxed and not tense. the toes are also relaxed and not tense. the wrists are also relaxed and not tense. the ankles are also relaxed and not tense. the knees are also relaxed and not tense. the hips are also relaxed and not tense. the thighs are also relaxed and not tense. the calves are also relaxed and not tense. the shins are also relaxed and not tense. the calf muscles are also relaxed and not tense. the quadriceps are also relaxed and not tense. the hamstrings are also relaxed and not tense. the glutes are also relaxed and not tense. the lower back is also relaxed and not tense. the abdominal muscles are also relaxed and not tense. the obliques are also relaxed and not tense. the pectoral muscles are also relaxed and not tense. the shoulders are also relaxed and not tense. the spine is also relaxed and not tense. the neck is also relaxed and not tense. the head is also relaxed and not tense. therefore, the probability of success for this solution is low. confidence level: 10%.
+
+b: [
+the eyebrows are furrowed and the eyes are narrowed or looking directly at the object of their anger, and the lips are tightly closed together, and the nose is slightly flared, but the mouth is not slightly open, and the eyebrows are slightly arched. the person is also leaning back slightly, and the head is tilted slightly to one side, and the shoulders are slightly hunched over. the arms are also relaxed and not tense. the legs are also relaxed and not tense. the feet are also relaxed and not tense. the hands are also relaxed and不会发生。
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+sadness anger
+sadness anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+sadness anger
+sadness anger
+220 0.16363636363636364
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+sadness anger
+sadness anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+sadness anger
+sadness anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+sadness anger
+sadness anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+sadness anger
+sadness anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+sadness anger
+sadness anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+sadness anger
+sadness anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+sadness anger
+sadness anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+sadness contempt
+sadness contempt
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+sadness happiness
+sadness happiness
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+sadness sadness
+sadness sadness
+230 0.1608695652173913
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+sadness anger
+sadness anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+sadness happiness
+sadness happiness
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+sadness surprise
+sadness surprise
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+sadness anger
+sadness anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+sadness contempt
+sadness contempt
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+sadness anger
+sadness anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+sadness anger
+sadness anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+sadness anger
+sadness anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+sadness surprise
+sadness surprise
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+sadness sadness
+sadness sadness
+240 0.15833333333333333
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+sadness surprise
+sadness surprise
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+sadness anger
+sadness anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+sadness contempt
+sadness contempt
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+surprise anger
+surprise anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+surprise anger
+surprise anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+surprise anger
+surprise anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+surprise the most likely emotion in this scenario is surprise, with a confidence level of 70%.
+surprise the most likely emotion in this scenario is surprise, with a confidence level of 70%.
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+surprise anger
+surprise anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+surprise anger
+surprise anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+surprise anger
+surprise anger
+250 0.152
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+surprise anger
+surprise anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+surprise sadness
+surprise sadness
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+surprise sadness
+surprise sadness
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+surprise anger
+surprise anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+surprise anger
+surprise anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+surprise anger
+surprise anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+surprise anger
+surprise anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+surprise disgust
+surprise disgust
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+surprise anger
+surprise anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+surprise anger
+surprise anger
+260 0.14615384615384616
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+surprise anger
+surprise anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+surprise neutral
+surprise neutral
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+surprise disgust
+surprise disgust
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+surprise anger
+surprise anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+surprise anger
+surprise anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+surprise anger - disgust - sadness - surprise - happiness - fear - contempt
+surprise anger - disgust - sadness - surprise - happiness - fear - contempt
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+surprise sadness
+surprise sadness
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+surprise anger
+surprise anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+surprise anger
+surprise anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+surprise contempt
+surprise contempt
+270 0.14074074074074075
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+surprise neutral
+surprise neutral
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+surprise surprise
+surprise surprise
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+surprise sadness
+surprise sadness
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+surprise anger
+surprise anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+surprise anger
+surprise anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+surprise disgust
+surprise disgust
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+surprise sadness
+surprise sadness
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+surprise cannot determine emotion.
+surprise cannot determine emotion.
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+surprise anger
+surprise anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+surprise sadness
+surprise sadness
+280 0.1392857142857143
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+surprise neutral
+surprise neutral
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+surprise anger
+surprise anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+surprise anger
+surprise anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+surprise disgust
+surprise disgust
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+surprise anger
+surprise anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+surprise anger
+surprise anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+surprise anger
+surprise anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+surprise disgust
+surprise disgust
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+surprise disgust
+surprise disgust
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+surprise disgust
+surprise disgust
+290 0.13448275862068965
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+surprise anger
+surprise anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+surprise anger
+surprise anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+surprise anger
+surprise anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+surprise surprise
+surprise surprise
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+surprise anger
+surprise anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+surprise anger
+surprise anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+surprise sadness
+surprise sadness
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+surprise anger
+surprise anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+surprise anger
+surprise anger
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+[1m> Finished chain.[0m
+surprise fear
+surprise fear
+300 0.13333333333333333
+
+
+[1m> Entering new SequentialChain chain...[0m
+
+
+#83
+
+
+
+> Entering new SequentialChain chain...
+
+> Finished chain.
+disgust anger
+disgust anger
+
+
+
+
